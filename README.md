@@ -15,3 +15,5 @@
 =======
 >>>>>>> origin/master
 >made changes for git pull deemo
+
+>deleting file
