@@ -10,5 +10,8 @@
 
 >made changes for git pull deemo
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 >made changes for git pull deemo
